@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MyCryptographicApplication"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="682.765" WindowStartupLocation="CenterScreen">
+        Title="MainWindow" Height="350" Width="648.882" WindowStartupLocation="CenterScreen">
     <Grid>
         <Button x:Name="btnEncryptFile" Content="Encrypt File" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="10,147,0,0" Height="48" RenderTransformOrigin="0.933,0.229" Background="#FFDDDDDD"/>
         <Button x:Name="btnDecryptFile" Content="Decrypt File" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="164,147,0,0" Height="48" RenderTransformOrigin="0.933,0.229" Background="#FFDDDDDD"/>

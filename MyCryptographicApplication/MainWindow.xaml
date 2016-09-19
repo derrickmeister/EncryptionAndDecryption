@@ -7,13 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="682.765" WindowStartupLocation="CenterScreen">
     <Grid>
-        <Button x:Name="btnEncryptFile" Content="Encrypt File" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="29,33,0,0" Height="47.96" RenderTransformOrigin="0.933,0.229" Background="#FFDDDDDD"/>
-        <Button x:Name="btnDecryptFile" Content="Decrypt File" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="199,33,0,0" Height="48" RenderTransformOrigin="0.933,0.229" Background="#FFDDDDDD"/>
-        <Button x:Name="btnCreateAsmKeys" Content="Create Keys" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="371,33,0,0" Height="48" RenderTransformOrigin="0.933,0.229" Background="#FFDDDDDD"/>
-        <Button x:Name="btnExportPublicKey" Content="Export Public Key" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="29,100,0,0" Height="48" RenderTransformOrigin="0.933,0.229" Background="#FFDDDDDD"/>
-        <Button x:Name="btnImportPublicKey" Content="Import Public Key" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="199,100,0,0" Height="48" RenderTransformOrigin="0.933,0.229" Background="#FFDDDDDD"/>
-        <Button x:Name="btnGetPrivateKey" Content="Get Private Key" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="371,100,0,0" Height="48" RenderTransformOrigin="0.933,0.229" Background="#FFDDDDDD"/>
-        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="29,171,0,0" VerticalAlignment="Top" Width="193"/>
+        <Button x:Name="btnEncryptFile" Content="Encrypt File" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="10,147,0,0" Height="48" RenderTransformOrigin="0.933,0.229" Background="#FFDDDDDD"/>
+        <Button x:Name="btnDecryptFile" Content="Decrypt File" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="164,147,0,0" Height="48" RenderTransformOrigin="0.933,0.229" Background="#FFDDDDDD"/>
+        <Button x:Name="btnCreateAsmKeys" Content="Create Keys" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="10,41,0,0" Height="48" RenderTransformOrigin="0.933,0.229" Background="#FFDDDDDD"/>
+        <Button x:Name="btnExportPublicKey" Content="Export Public Key" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="164,41,0,0" Height="48" RenderTransformOrigin="0.933,0.229" Background="#FFDDDDDD"/>
+        <Button x:Name="btnImportPublicKey" Content="Import Public Key" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="318,41,0,0" Height="48" RenderTransformOrigin="0.933,0.229" Background="#FFDDDDDD"/>
+        <Button x:Name="btnGetPrivateKey" Content="Get Private Key" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="10,94,0,0" Height="48" RenderTransformOrigin="0.933,0.229" Background="#FFDDDDDD"/>
+        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="655"/>
 
     </Grid>
 </Window>
